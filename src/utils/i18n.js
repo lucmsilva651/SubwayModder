@@ -16,6 +16,8 @@ const i18n = createI18n({
     en: {
       message: {
         selectHack: 'Select your hack',
+        hacksBtn: 'Hacks',
+        texturesBtn: 'Textures',
         moneyInf: 'Infinite coins',
         keysInf: 'Infinite keys',
         multInf: 'Multiplier and max upgrades',
@@ -29,12 +31,16 @@ const i18n = createI18n({
         step2: 'On your device, navigate to the {path} folder',
         step3: 'Paste the file into the folder and confirm the replacement when prompted',
         downloadBtn: 'Download',
-        cancelBtn: 'Cancel'
+        cancelBtn: 'Cancel',
+        textures: 'Textures',
+        hacks: 'Hacks',
+        about: 'About'
       }
     },
     es: {
       message: {
         selectHack: 'Selecciona tu hack',
+        hacksBtn: 'Hacks',
         moneyInf: 'Monedas infinitas',
         keysInf: 'Llaves infinitas',
         multInf: 'Multiplicador y mejoras máx',
@@ -48,12 +54,16 @@ const i18n = createI18n({
         step2: 'En tu dispositivo, navega hasta la carpeta {path}',
         step3: 'Pega el archivo en la carpeta y confirma la sustitución cuando se te pida',
         downloadBtn: 'Descargar',
-        cancelBtn: 'Cancelar'
+        cancelBtn: 'Cancelar',
+        textures: 'Texturas',
+        hacks: 'Hacks',
+        about: 'Acerca de'
       }
     },
     pt: {
       message: {
         selectHack: 'Selecione seu hack',
+        hacksBtn: 'Hacks',
         moneyInf: 'Moedas infinitas',
         keysInf: 'Chaves infinitas',
         multInf: 'Multiplicador e melhorias max',
@@ -67,7 +77,10 @@ const i18n = createI18n({
         step2: 'No seu dispositivo, navegue até a pasta {path}',
         step3: 'Cole o arquivo na pasta e confirme a substituição quando solicitado',
         downloadBtn: 'Baixar',
-        cancelBtn: 'Cancelar'
+        cancelBtn: 'Cancelar',
+        textures: 'Texturas',
+        hacks: 'Hacks',
+        about: 'Sobre'
       }
     }
   }

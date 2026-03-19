@@ -15,15 +15,12 @@
 </template>
 
 <style scoped>
-header {
-  font-size: .6em;
-}
-
 footer {
   margin-bottom: 1%;
 }
 
 a, footer {
+  font-size: 1em;
   margin-top: .5em;
   color: black;
   /*
@@ -35,12 +32,11 @@ a, footer {
   text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
               1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
 
-  font-size: 1.2em;
   text-decoration: none;
 }
 
 header img {
-  height: 200px;
+  height: 150px;
 }
 
 main {
