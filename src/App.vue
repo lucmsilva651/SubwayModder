@@ -52,4 +52,14 @@ main {
   min-width: 220px;
   color: #d0d0d0;
 }
+
+@media screen and (max-width: 600px) {
+  header img {
+    height: 120px;
+  }
+
+  a, footer {
+    font-size: 1em;
+  }
+}
 </style>
